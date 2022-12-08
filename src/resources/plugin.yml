@@ -1,0 +1,6 @@
+name: JoinMessage
+main: net.endlight.joinmessage
+version: "1.0.0"
+author: EndLight
+api: ["1.0.14"]
+description: JoinMessagePlugin by EndLight
